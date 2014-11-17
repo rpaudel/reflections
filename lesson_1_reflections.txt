@@ -28,7 +28,7 @@ git setup:
 -git has been setup to show version IDs while running
 - also new color schemes
 
-what happends when you initialize a repository?
+what happens when you initialize a repository?
 -makes git ready to record changes
 Why do you need to do it?
 - not all folders are git repositories by default
