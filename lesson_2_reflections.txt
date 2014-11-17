@@ -1,1 +1,8 @@
 Here I will write reflections from lesson 2
+staging area helps to connect working directory with the repository. make sure to double check before git commit to repository
+
+Having different branches helps to keep different versions which branches off
+from one version.
+
+With the diagrams, it is easy to find out parent commit and also find out
+which commits are not reachable from a branch.
