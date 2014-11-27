@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 I would like to use a remote repository rather than keeping all my work local if I want to share my codes with my colleagues/collaborators. Also, if I don't have my computer with me and would like to work on my codes, using a remote repository will be useful.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+This is sometimes a problem with Dropbox actually. It might be difficult to know when you are online or not. So, if you work on something locally and assume that everything is synced to the web, that might not happen all the time.
